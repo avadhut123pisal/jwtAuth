@@ -1,7 +1,7 @@
 package services
 
 import (
-	"JWT_Authentication_Demo/model"
+	"jwtAuth/model"
 	"encoding/json"
 	"net/http"
 )
